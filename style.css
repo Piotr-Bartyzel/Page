@@ -63,7 +63,7 @@ body {
 .menu {
   height: 100px;
   background-color: black;
-	
+  overflow-x:hidden; 		
   z-index: 4;
   width:100%;
   position: fixed;
