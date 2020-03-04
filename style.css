@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  overflow-x:hidden;
 }
 
 .loading {
@@ -62,7 +63,7 @@ body {
 .menu {
   height: 100px;
   background-color: black;
-
+	
   z-index: 4;
   width:100%;
   position: fixed;
