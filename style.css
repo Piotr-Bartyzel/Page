@@ -252,6 +252,13 @@ right: 20%;
   background-position: center;
   transition: 0.5s
 }
+.gallery div .g3{
+  background: url('stylik.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  transition: 0.5s
+}
 .gallery div div:hover {
   transform: scale(1.2);
   filter: opacity(0.5);
