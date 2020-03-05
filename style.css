@@ -62,8 +62,7 @@ html, body {
   -webkit-backface-visibility: hidden;
 }
 .menu {
-  height: 100px;
-  background-color: red;		
+  height: 100px;		
   z-index: 4;
   width:100%;
   position: fixed;
