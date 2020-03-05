@@ -236,7 +236,10 @@ right: 20%;
   background-position: center;
   transition: 0.5s;
 }
+.gallery div .g2{
 
+  background: url('cvlogo.jpg');
+}
 .gallery div div:hover {
   transform: scale(1.2);
   filter: opacity(0.5);
