@@ -247,7 +247,7 @@ right: 20%;
   background: url('stylik.jpg');
 
 }
-.gallery div div {
+.g1, .g2, .g3, .g4 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
