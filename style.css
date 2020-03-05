@@ -117,7 +117,7 @@ html, body {
 .space2 {background-attachment: initial;}
 
 }
-@media (max-width: 1000px){
+
 .greeting {
   height: 400px;
   //background-color: lightyellow;
@@ -159,7 +159,6 @@ right: 20%;
 }
 .arrow:hover {
     box-shadow: 0 0 50px #7FFFD4;
-}
 }
 .space {
     width: 100%;
