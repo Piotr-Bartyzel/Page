@@ -79,7 +79,7 @@ function Obj(ctx,a,x,yy,thickness,ref,time,y,color){
     this.color = color;
 
     this.draw = function(){
-        console.log("tooo "+this.xstart);
+ 
       ctx.beginPath();
       if(this.yend<=this.yy){	
       ctx.moveTo(this.xstart,this.ystart);
