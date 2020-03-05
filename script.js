@@ -37,7 +37,7 @@ draw8 = new Obj(ct,0,325,300,2,700,2,0,"#7FFFD4");
 
 setInterval(draw,10);
 
-
+}
 })
 $( window ).resize(function() {
 
@@ -63,7 +63,7 @@ else{
   },300)
 }
 }
-}
+
 });
 
 function Obj(ctx,a,x,yy,thickness,ref,time,y,color){
