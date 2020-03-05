@@ -5,7 +5,7 @@ $(document).ready(function(){
 
     $('html, body').stop().animate({scrollTop:400},500);
   })
-if($( window ).width()<=576){
+if($( window ).width()>576){
    canvas = document.getElementById("cn");
 
    ctx = canvas.getContext("2d");
