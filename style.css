@@ -232,28 +232,22 @@ right: 20%;
 
 .gallery div .g1{
   background: url('planet1.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  transition: 0.5s
+ 
 }
 .gallery div .g2{
   background: url('cvlogo.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  transition: 0.5s
+
 }
 
 .gallery div .g3{
   background: url('3dfull.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  transition: 0.5s
+
 }
 .gallery div .g4{
   background: url('stylik.jpg');
+
+}
+.gallery div div {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
