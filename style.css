@@ -46,6 +46,7 @@ html, body {
   padding: 0;
   height: 2300px;
   position: absolute;
+  overflow-x:hidden;
 }
 
 .blur {
