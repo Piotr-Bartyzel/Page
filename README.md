@@ -1,1 +1,1 @@
-Strona internetowa z wykorzystaniem: HTML5, CSS3 oraz jQuery. Link: https://piotr-wilk.github.io/Page/
+Responsywna strona internetowa z wykorzystaniem: HTML5, CSS3 (Bootstrap) oraz jQuery. Dla poprawienia wydajności część efektów specjalnych została wyłączona na urządzeniach mobilnych. Link: https://piotr-wilk.github.io/Page/
