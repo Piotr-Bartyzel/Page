@@ -231,7 +231,7 @@ right: 20%;
 
 
 
-.gallery div img{
+.gallery div div{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
