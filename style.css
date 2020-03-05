@@ -230,24 +230,8 @@ right: 20%;
 }
 
 
-.gallery div .g1{
-  background: url('planet1.png');
- 
-}
-.gallery div .g2{
-  background: url('cvlogo.jpg');
 
-}
-
-.gallery div .g3{
-  background: url('3dfull.jpg');
-
-}
-.gallery div .g4{
-  background: url('stylik.jpg');
-
-}
-.g1, .g2, .g3, .g4 {
+.gallery div div{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
