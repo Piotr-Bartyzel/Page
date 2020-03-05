@@ -117,7 +117,7 @@ html, body {
 .space2 {background-attachment: initial;}
 
 }
-@media (max-width: 576px){
+@media (min-width: 576px){
 .greeting {
   height: 400px;
   //background-color: lightyellow;
