@@ -293,6 +293,10 @@ right: 20%;
   .greeting {
     height: 400px;
   }
+	
+	#can, #cn {
+	display: none
+	}
   .greeting #rm {
       bottom: 100px;
       right: 50%;
