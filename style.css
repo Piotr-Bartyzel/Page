@@ -161,7 +161,7 @@ right: 20%;
     box-shadow: 0 0 50px #7FFFD4;
 }
 }
-@media (max-width: 1000px){
+@media (min-width: 1000px){
 	.greeting {
 display: none
 }
