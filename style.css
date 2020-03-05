@@ -228,24 +228,21 @@ right: 20%;
   margin: 0;
   overflow: hidden;
 }
-.gallery div div{
-
-  background: url('planet1.png');
+.gallery div div {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  transition: 0.5s;
+  transition: 0.5s}
+
+.gallery div .g1{
+  background: url('planet1.png');
 }
 .gallery div .g2{
-
   background: url('cvlogo.jpg');
-
 }
 
 .gallery div .g3{
-
   background: url('3dfull.jpg');
-
 }
 .gallery div div:hover {
   transform: scale(1.2);
