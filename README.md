@@ -1,1 +1,1 @@
-Pzykład Responsywnej strony internetowej z wykorzystaniem: HTML5, CSS3 (Bootstrap) oraz jQuery. Dla poprawienia wydajności część efektów specjalnych została wyłączona na urządzeniach mobilnych. Link: https://piotr-wilk.github.io/Page/
+Pzykład Responsywnej strony internetowej z wykorzystaniem: HTML5, CSS3 (Bootstrap) oraz jQuery. Dla poprawienia wydajności część efektów specjalnych została wyłączona na urządzeniach mobilnych. Obrazki jak i zdjęcia zawarte na stronie zostały wykonane przeze mnie. Link: https://piotr-wilk.github.io/Page/
