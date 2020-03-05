@@ -228,7 +228,19 @@ right: 20%;
   margin: 0;
   overflow: hidden;
 }
+.gallery div .g1{
+  background: url('planet1.png');
+ }
+.gallery div .g2{
+  background: url('cvlogo.jpg');
+}
 
+.gallery div .g3{
+  background: url('3dfull.jpg');
+}
+.gallery div .g4{
+  background: url('stylik.jpg');
+}
 
 
 .gallery div div{
